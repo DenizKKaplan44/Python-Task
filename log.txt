@@ -1,0 +1,32 @@
+DEBUG:root:incoming args = Namespace(keys=['gruppe', 'colorCodes', 'labelIds'], colored=True)
+DEBUG:root:incoming args = Namespace(keys=['gruppe', 'colorCodes', 'labelIds'], colored=True)
+DEBUG:root:incoming args = Namespace(keys=['gruppe', 'colorCodes', 'labelIds'], colored=True)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8000
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8000 "POST /send/ HTTP/1.1" 200 24400
+DEBUG:root:incoming args = Namespace(keys=['gruppe', 'colorCodes', 'labelIds'], colored=True)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8000
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8000 "POST /send/ HTTP/1.1" 500 21
+DEBUG:root:incoming args = Namespace(keys=['gruppe', 'colorCodes', 'labelIds'], colored=True)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8000
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8000 "POST /send/ HTTP/1.1" 500 21
+DEBUG:root:incoming args = Namespace(keys=['gruppe', 'colorCodes', 'labelIds'], colored=True)
+DEBUG:root:incoming args = Namespace(keys=['gruppe', 'colorCodes', 'labelIds'], colored=True)
+DEBUG:root:incoming args = Namespace(keys=['gruppe', 'colorCodes', 'labelIds'], colored=True)
+DEBUG:root:incoming args = Namespace(keys=['gruppe', 'colorCodes', 'labelIds'], colored=True)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8000
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8000 "POST /send/ HTTP/1.1" 500 21
+DEBUG:root:incoming args = Namespace(keys=['gruppe', 'colorCodes', 'labelIds'], colored=True)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8000
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8000 "POST /send/ HTTP/1.1" 500 21
+DEBUG:root:incoming args = Namespace(keys=['gruppe', 'colorCodes', 'labelIds'], colored=True)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8000
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8000 "POST /send/ HTTP/1.1" 200 24400
+DEBUG:root:incoming args = Namespace(keys=['gruppe', 'labelIds', 'info'], colored=True)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8000
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8000 "POST /send/ HTTP/1.1" 200 24400
+DEBUG:root:incoming args = Namespace(keys=['gruppe', 'kurzname', 'labelIds', 'info'], colored=True)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8000
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8000 "POST /send/ HTTP/1.1" 200 24400
+DEBUG:root:incoming args = Namespace(keys=['gruppe'], colored=True)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8000
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8000 "POST /send/ HTTP/1.1" 200 24400
